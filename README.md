@@ -1,5 +1,3 @@
-# P11 — Créez votre portfolio de professionnel de la data — Mission Aéroworld
-
 ## 🎯 Contexte
 Projet de candidature pour le poste de **Chef de projet Data Analyst chez Aéroworld**, groupe aéronautique international. Ce portfolio démontre l'ensemble des compétences acquises tout au long de la formation, présentées sous forme de livrables professionnels organisés en 5 étapes.
 
